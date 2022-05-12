@@ -1,7 +1,11 @@
 # SelfHostedWebServiceSample1
 This is an ASP.Net MVC Web API Self-Hosted Web Service Sample.
 
-It's a great example of building a desktop web server or web service application. I call it a localhost server.
+It's a great example of building a desktop web server or web service application that uses ```HTTPSelfHostServer```. 
+
+Stack overflow article:
+
+https://stackoverflow.com/questions/17260766/how-do-i-get-asp-net-web-api-self-hosted-to-listen-on-only-localhost
 
 The service can be run from the Windows desktop or in the background as a service EXE if you register it with an exe service launcher.
 
