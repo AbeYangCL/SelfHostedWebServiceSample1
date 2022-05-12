@@ -1,9 +1,7 @@
 # SelfHostedWebServiceSample1
-ASP.Net MVC Web API Self-Hosted Web Service Sample
+This is an ASP.Net MVC Web API Self-Hosted Web Service Sample
 
-This is a sample ASP.Net MVC Web API Self-Hosted Web Service
-
-The service can be run from the desktop or in the background as a service EXE if you register it with an exe service launcher.
+The service can be run from the Windows desktop or in the background as a service EXE if you register it with an exe service launcher.
 
 The service uses the classic .Net Framework, but you should also be able to build something similar in .Net Core/.Net 5/.Net 6, etc.
 
@@ -19,3 +17,5 @@ http://localhost:9999  -or- http://localhost:9999/index.html
 
 Serving up a web service route: 
 http://localhost:9999/api/helloworld
+
+```This is a sample, not a complete app, so you will need to add appropriate security measures to the app if used in a production sceanrio```
